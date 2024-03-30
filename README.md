@@ -1,4 +1,4 @@
-# Station-Meteo-sur-ESP32
+# Station Météo sur ESP32
 
 Dans le cadre de mon premier projet de NSI de Terminale, j'ai fait une station météo sur un ESP32.
 
